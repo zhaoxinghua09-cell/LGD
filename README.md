@@ -69,6 +69,6 @@ Applications → MedXpert（生产参考部署，自报）
 
 代码许可 (code license) : 本仓代码与文档示例 Apache-2.0（see LICENSE）
                     本仓所含 LGD 理论表述文本不在 Apache-2.0 覆盖范围内，保留所有权利
-引用格式 (cite as)      : concept DOI 10.5281/zenodo.22821834（LGD 概念，非版本 DOI）
+引用格式 (cite as)      : 本仓无独立 DOI —— 请引用理论真源 zhaoxinghua09-cell/lgd-theory · concept DOI 10.5281/zenodo.22456647
 首次公开锚 (first public): 2026-10-02 · commit b40b38b · github.com/zhaoxinghua09-cell/LGD（public）
                     外锚 (external anchor): 无
