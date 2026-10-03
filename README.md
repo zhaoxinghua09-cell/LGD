@@ -36,12 +36,14 @@ python independent_verifier/cross_check.py
 
 ## The tree（结构）
 
+> 体例（《命名体例规范》v1.0 R-STYLE-1）：下列为**概念名/层名**，非仓库名；仓名一律以 `owner/repo` 全形另列。
+
 ```
 Theory    → LGD（规范文本，保留所有权利）
 Protocol   → UIBC（国际自治之物挑战赛 / 一致性与越权用例）
 Verification → Silent Failure Catalog · Assayance
 Agent Layer → Skills · Memory
-Benchmark  → UIBC-Benchmark-Spec
+Benchmark  → UIBC-Benchmark-Spec（**规格件名，非 repository**；内部工作稿，非对外发布物）
 Applications → MedXpert（生产参考部署，自报）
 ```
 
