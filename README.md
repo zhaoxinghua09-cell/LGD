@@ -74,3 +74,9 @@ Applications → MedXpert（生产参考部署，自报）
 引用格式 (cite as)      : 本仓无独立 DOI —— 请引用理论真源 zhaoxinghua09-cell/lgd-theory · concept DOI 10.5281/zenodo.22456647
 首次公开锚 (first public): 2026-10-02 · commit b40b38b · github.com/zhaoxinghua09-cell/LGD（public）
                     外锚 (external anchor): 无
+
+## Permanent Archive / 永久存档
+
+[![Software Heritage](https://archive.softwareheritage.org/badge/origin/save/https://github.com/zhaoxinghua09-cell/LGD/)](https://archive.softwareheritage.org/browse/origin/?origin_url=https%3A%2F%2Fgithub.com%2Fzhaoxinghua09-cell%2FLGD%2F)
+
+- **Software Heritage Visit ID**: `2558385` — 本仓已由 Software Heritage 永久存档（不可篡改证据），为该生态资产的长期可引用性提供基础设施级保证。
