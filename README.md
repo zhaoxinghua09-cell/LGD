@@ -1,5 +1,8 @@
 # LGD — Lifecycle Governance Doctrine（生命周期全程治理理论）
 
+> **在线门户 Portal**：https://zhaoxinghua09-cell.github.io/lgd-hub/ — LGD 生态全景（理论 / 参考实现 / 技能全库），一跳即达。
+
+
 > You don't have to believe in it. Try to break it.
 > 你不必先认同它，先试着打破它。
 
@@ -20,7 +23,7 @@ python -m unittest discover tests
 python independent_verifier/cross_check.py
 ```
 
-可复算指针：仓库 `uibc-core`（Apache-2.0）；概念 DOI `10.5281/zenodo.22821834`；Sigstore Rekor `logIndex 2883389783`。
+可复算指针：仓库 `uibc-core`（Apache-2.0）；概念 DOI `10.5281/zenodo.22456647`；Sigstore Rekor `logIndex 2883389783`。
 
 ---
 
