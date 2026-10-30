@@ -1,0 +1,32 @@
+# LGD — Lifecycle Governance Doctrine（生命周期全程治理理论）
+
+> LGD 是一套关于「自治之物（agent / 智能体 / 自治系统）在整个生命周期内如何被治理」的理论框架。本仓是它的公开入口与贡献体系：RUN IT（跑起来）/ BREAK IT（打破它）/ BUILD IT（扩展它）。代码与文档示例 Apache-2.0；LGD 理论文本保留所有权利。理论真源：zhaoxinghua09-cell/lgd-theory（concept DOI 10.5281/zenodo.22456647）。
+
+## Docs（本仓入口）
+- [README](https://github.com/zhaoxinghua09-cell/LGD/blob/main/README.md): 三入口说明、理论结构、Run it in 3 minutes、归属声明
+- [CONTRIBUTING](https://github.com/zhaoxinghua09-cell/LGD/blob/main/CONTRIBUTING.md): 贡献流程
+- [CONTRIBUTOR-LADDER](https://github.com/zhaoxinghua09-cell/LGD/blob/main/CONTRIBUTOR-LADDER.md): 贡献者阶梯 L1 Explorer → L5 Independent Verifier
+- [CONTRIBUTOR-AGREEMENT](https://github.com/zhaoxinghua09-cell/LGD/blob/main/CONTRIBUTOR-AGREEMENT.md): 贡献者契约（CLA）
+- [SECURITY](https://github.com/zhaoxinghua09-cell/LGD/blob/main/SECURITY.md): 安全问题报告通道
+- [LICENSE](https://github.com/zhaoxinghua09-cell/LGD/blob/main/LICENSE): Apache-2.0（不含 LGD 理论文本）
+- [NOTICE](https://github.com/zhaoxinghua09-cell/LGD/blob/main/NOTICE): 署名与许可归属
+
+## Run it（可运行证据）
+- [uibc-core](https://github.com/zhaoxinghua09-cell/uibc-core): UIBC 协议与参考实现（Apache-2.0）。quickstart：`git clone https://github.com/zhaoxinghua09-cell/uibc-core && cd uibc-core && python -m unittest discover tests && python independent_verifier/cross_check.py`
+- 概念 DOI：[10.5281/zenodo.22456647](https://doi.org/10.5281/zenodo.22456647)（Zenodo 永久存档）
+- Sigstore Rekor：logIndex 2883389783
+
+## Related（生态资产）
+- [lgd-theory](https://github.com/zhaoxinghua09-cell/lgd-theory): 理论 SSOT（规范文本，保留所有权利）
+- [lgd-hub 门户](https://zhaoxinghua09-cell.github.io/lgd-hub/): 在线门户，LGD 生态全景（理论 / 参考实现 / 技能全库）
+- [silent-failure-catalog](https://github.com/zhaoxinghua09-cell/silent-failure-catalog): Silent Failure Catalog（Verification 层）
+- [lgd-glossary](https://github.com/zhaoxinghua09-cell/lgd-glossary): 术语表
+- [skill-audit](https://github.com/LGD-Eval/skill-audit): 独立评测号（LGD-Eval）技能审计仓
+
+## Verification（外锚）
+- Software Heritage：Visit ID 2558385（本仓永久存档，不可篡改证据）
+- 匿名 runner 周检：本仓 `.github/workflows/outsider-check.yml`，每周一 02:00 UTC 匿名复验各仓可读性与 uibc-core quickstart，运行记录公开可查
+
+## Attribution
+- © 2026 赵兴华 / Steven Zhao · China（ORCID 0009-0001-0512-1237）. All rights reserved（理论文本）。
+- "SynomosAI" / "MedXpert" 为品牌名，非注册法律实体、未申请商标注册；MedXpert 为生产参考部署（自报），非认证、非背书、非监管认可。
