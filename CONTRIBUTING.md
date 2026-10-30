@@ -38,6 +38,6 @@
                     ← 非认证、非背书、非监管认可（not a certification or endorsement）
 
 代码许可 (code license) : 本仓文档示例 Apache-2.0（see LICENSE）；LGD 理论文本保留所有权利
-引用格式 (cite as)      : concept DOI 10.5281/zenodo.22821834（LGD 概念，非版本 DOI）
-首次公开锚 (first public): 本仓新建，待建仓后填（不臆造）
+引用格式 (cite as)      : concept DOI 10.5281/zenodo.22456647（LGD 概念，非版本 DOI）
+首次公开锚 (first public): 2026-10-02 · commit b40b38b · github.com/zhaoxinghua09-cell/LGD（public）
                     外锚 (external anchor): 无
