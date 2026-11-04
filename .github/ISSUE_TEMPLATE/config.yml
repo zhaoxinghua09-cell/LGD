@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: "LGD 讨论区"
+    url: "https://github.com/zhaoxinghua09-cell/lgd-hub/discussions"
+    about: "提问与一般性讨论请走讨论区"
